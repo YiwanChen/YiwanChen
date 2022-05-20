@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @YiwanChen
 - 👀 I’m interested in machine learning.
-- 🌱 I’m currently learning cloud applications
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently working on cloud applications
+
 
 <!---
 YiwanChen/YiwanChen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
